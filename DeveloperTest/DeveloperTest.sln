@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleApp", "VehicleApp\VehicleApp.csproj", "{EA8A3565-62EC-4FF8-8EF1-951F19DD0525}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemSolving", "ProblemSolving\ProblemSolving.csproj", "{9E9ACFDA-E54B-46FD-9207-AC6C522C9716}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemSolving", "ProblemSolving\ProblemSolving.csproj", "{9E9ACFDA-E54B-46FD-9207-AC6C522C9716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemSolving.Tests", "ProblemSolving.Tests\ProblemSolving.Tests.csproj", "{91077634-E485-495B-8AFA-3A6E83E02EDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9E9ACFDA-E54B-46FD-9207-AC6C522C9716}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E9ACFDA-E54B-46FD-9207-AC6C522C9716}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E9ACFDA-E54B-46FD-9207-AC6C522C9716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91077634-E485-495B-8AFA-3A6E83E02EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91077634-E485-495B-8AFA-3A6E83E02EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91077634-E485-495B-8AFA-3A6E83E02EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91077634-E485-495B-8AFA-3A6E83E02EDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
